@@ -1,3 +1,6 @@
 [submodule "weather"]
 	path = weather
 	url = https://github.com/MynStill/coolweather.git
+[submodule "music"]
+	path = music
+	url = https://github.com/MynStill/mymusicplayer.git
